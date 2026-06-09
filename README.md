@@ -1,0 +1,3 @@
+THIS IS A MINOR PROJECT FOR THE STUDENTS REGISTRATIION
+in this project we will use different softwares like mongodb,node,npm etc... we use the languages like html,css,javascript,node etc... 
+this project describes about the registration of the students with name,email,phone number and the branch and the registered students details will be displayed in the below of the registration box.
